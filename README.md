@@ -8,24 +8,17 @@
 
 _{This webpage is a display for potential employers to view my code and evaluate my skills. }_
 
-## Setup/Installation Requirements
-
-* _N/A_
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Contact me at marcusjparmentier@gmail.com with any problems, questions, or advice with my code. }_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{Used bootstrap for a good chunk of the framework.}_
 
-### License
+### Legal
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Designed and built with all the love in the world by @mdo and @fat. Maintained by the core team with the help of our contributors.
+Code licensed MIT, docs CC BY 3.0. }*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_{Marcus Parmentier, @mdo, @fat, and MIT}_**
