@@ -1,3 +1,17 @@
+body {
+  background-color: #bfe1ff;
+}
+h1 {
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 50px;
+}
+
+.codingport {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
 #kayak {
   font-size: 20px;
   float: right;
@@ -12,6 +26,29 @@ img {
   max-width: 75%;
   height: auto;
   border-radius: 10px;
+  margin-bottom: 35px;
+}
+
+.well {
+  background-color: #faffa0;
+}
+
+p.strong {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.linktext {
+  text-align: center;
+
+}
+
+ul {
+  padding-bottom: 15px;
 }
 
 .pun {
