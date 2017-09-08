@@ -1,0 +1,20 @@
+#kayak {
+  font-size: 20px;
+  float: right;
+  line-height: 150px;
+  padding-right: 50px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  max-width: 75%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.pun {
+  font-weight: bolder;
+  font-style: oblique;
+}
